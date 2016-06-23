@@ -1,4 +1,4 @@
-#include "ni_time.h"
+#include "time.h"
 
 
 int main()
