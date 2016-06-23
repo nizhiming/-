@@ -1,4 +1,4 @@
-#include "ni_time.h"
+#include "time.h"
 
 
 bool IsLeapYear( int year ) //判断年份是平年还是闰年
